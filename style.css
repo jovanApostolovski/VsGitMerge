@@ -1,0 +1,17 @@
+
+* {
+    margin:0;
+}
+
+h1 {
+    text-align:center;
+    color:blue;
+}
+
+p {
+    color:yellowgreen;
+    text-align:center;
+    width:60%;
+    margin:0 auto;
+}
+
